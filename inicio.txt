@@ -1,1 +1,2 @@
-Esto es una prueba de GIT
+Esto es una prueba de GIT.
+Se realiza cambio de la información
